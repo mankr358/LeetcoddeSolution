@@ -18,4 +18,4 @@ class Solution {
 
         return (int) reversed * sign; // Restore the original sign
     }
-    }
+}
