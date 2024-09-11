@@ -1,19 +1,18 @@
 class Solution {
     public void wiggleSort(int[] nums) {
-      int n = nums.length;
         int[] sorted = nums.clone();
         Arrays.sort(sorted);
-        
-        int mid = (n - 1) / 2;  // Middle index of the sorted array
-        int end = n - 1;  // End of the sorted array
-        
-        // Fill odd indices with larger half and even indices with smaller half
-        for (int i = 0; i < n; i++) {
+
+        int mid = (nums.length + 1) / 2;
+        int j = mid - 1;
+        int k = nums.length - 1;
+
+        for (int i = 0; i < nums.length; i++) {
             if (i % 2 == 0) {
-                nums[i] = sorted[mid--];  // Fill smaller half at even indices
+                nums[i] = sorted[j--];
             } else {
-                nums[i] = sorted[end--];  // Fill larger half at odd indices
+                nums[i] = sorted[k--];
             }
-        }   
+        }
     }
 }
