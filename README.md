@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0073-set-matrix-zeroes) |
 | [0228-summary-ranges](https://github.com/mankr358/LeetcoddeSolution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/mankr358/LeetcoddeSolution/tree/master/0238-product-of-array-except-self) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0324-wiggle-sort-ii) |
 ## Counting Sort
@@ -42,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0324-wiggle-sort-ii) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
