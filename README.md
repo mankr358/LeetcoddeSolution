@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/mankr358/LeetcoddeSolution/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/mankr358/LeetcoddeSolution/tree/master/0383-ransom-note) |
 ## Matrix
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/mankr358/LeetcoddeSolution/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mankr358/LeetcoddeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mankr358/LeetcoddeSolution/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/mankr358/LeetcoddeSolution/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
