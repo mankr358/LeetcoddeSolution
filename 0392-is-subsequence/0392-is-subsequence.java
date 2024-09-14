@@ -1,37 +1,20 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-         Map<Character, List<Integer>> mp = new HashMap<>();
+        if (s.length() == 0) return true; // An empty string is always a subsequence
+        if (t.length() == 0) return false; // If s is not empty and t is empty, s can't be a subsequence of t
         
-        // Build the map of character to list of indices in t
-        for (int i = 0; i < t.length(); i++) {
-            char ch = t.charAt(i);
-            mp.computeIfAbsent(ch, k -> new ArrayList<>()).add(i);
+        int sIndex = 0;
+        int tIndex = 0;
+        
+        // Traverse through both strings
+        while (sIndex < s.length() && tIndex < t.length()) {
+            if (s.charAt(sIndex) == t.charAt(tIndex)) {
+                sIndex++; // Move to the next character in s
+            }
+            tIndex++; // Always move to the next character in t
         }
         
-        int prev = -1;
-        
-        // Check if each character in s is in t in the correct order
-        for (char ch : s.toCharArray()) {
-            if (!mp.containsKey(ch)) {
-                return false;
-            }
-            
-            List<Integer> indices = mp.get(ch);
-            int index = Collections.binarySearch(indices, prev + 1);
-            
-            // Adjust index if necessary
-            if (index < 0) {
-                index = -index - 1;
-            }
-            
-            // Check if we have a valid index
-            if (index == indices.size()) {
-                return false;
-            }
-            
-            prev = indices.get(index);
-        }
-        
-        return true;
-    }
+        // If sIndex has reached the length of s, it means we found all characters of s in t
+        return sIndex == s.length(); 
+}
 }
