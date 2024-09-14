@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/mankr358/LeetcoddeSolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mankr358/LeetcoddeSolution/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mankr358/LeetcoddeSolution/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/mankr358/LeetcoddeSolution/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mankr358/LeetcoddeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mankr358/LeetcoddeSolution/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
