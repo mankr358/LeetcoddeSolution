@@ -35,3 +35,6 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> If you have figured out the <code>O(n)</code> solution, try coding another solution using the <strong>divide and conquer</strong> approach, which is more subtle.</p>
+
+[leetcode 53.pdf](https://github.com/user-attachments/files/17008736/leetcode.53.pdf)
+
