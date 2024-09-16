@@ -28,3 +28,5 @@ There may exists other ways to achieve this answer too.</pre>
 	<li><code>s</code> consists of only uppercase English letters.</li>
 	<li><code>0 &lt;= k &lt;= s.length</code></li>
 </ul>
+![Leetcode 424](https://github.com/user-attachments/assets/f71e4a56-119c-4274-9af3-49363bbe49a2)
+
