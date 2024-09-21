@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/mankr358/LeetcoddeSolution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/mankr358/LeetcoddeSolution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0324-wiggle-sort-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mankr358/LeetcoddeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/mankr358/LeetcoddeSolution/tree/master/0643-maximum-average-subarray-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mankr358/LeetcoddeSolution/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/mankr358/LeetcoddeSolution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
