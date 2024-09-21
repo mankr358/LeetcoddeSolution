@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/mankr358/LeetcoddeSolution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mankr358/LeetcoddeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0073-set-matrix-zeroes) |
