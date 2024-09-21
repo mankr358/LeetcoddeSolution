@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mankr358/LeetcoddeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/mankr358/LeetcoddeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mankr358/LeetcoddeSolution/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/mankr358/LeetcoddeSolution/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/1603-running-sum-of-1d-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mankr358/LeetcoddeSolution/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/mankr358/LeetcoddeSolution/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/1603-running-sum-of-1d-array) |
 ## Sorting
 |  |
