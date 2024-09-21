@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mankr358/LeetcoddeSolution/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/1603-running-sum-of-1d-array) |
+| [2551-apply-operations-to-an-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/mankr358/LeetcoddeSolution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0567-permutation-in-string) |
+| [2551-apply-operations-to-an-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/mankr358/LeetcoddeSolution/tree/master/2050-count-good-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
