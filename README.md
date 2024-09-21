@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mankr358/LeetcoddeSolution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/mankr358/LeetcoddeSolution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mankr358/LeetcoddeSolution/tree/master/0228-summary-ranges) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/mankr358/LeetcoddeSolution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0274-h-index) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mankr358/LeetcoddeSolution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mankr358/LeetcoddeSolution/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/mankr358/LeetcoddeSolution/tree/master/0392-is-subsequence) |
