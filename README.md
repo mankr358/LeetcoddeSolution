@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/mankr358/LeetcoddeSolution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/mankr358/LeetcoddeSolution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/mankr358/LeetcoddeSolution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mankr358/LeetcoddeSolution/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0283-move-zeroes) |
