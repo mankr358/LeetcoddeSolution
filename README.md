@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mankr358/LeetcoddeSolution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mankr358/LeetcoddeSolution/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mankr358/LeetcoddeSolution/tree/master/0228-summary-ranges) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
 ## Backtracking
