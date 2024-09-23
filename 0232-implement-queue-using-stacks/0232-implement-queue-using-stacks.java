@@ -7,25 +7,31 @@ Stack <Integer> stack2;
     }
     
     public void push(int x) {
-        while(!stack2.isEmpty()){
-            stack1.push(stack2.pop());
-        }
-        stack2.push(x);
-        while(!stack1.isEmpty()){
-            stack2.push(stack1.pop());
-        }
+        // while(!stack2.isEmpty()){
+        //     stack1.push(stack2.pop());
+        // }
+        stack1.push(x);
+        // while(!stack1.isEmpty()){
+        //     stack2.push(stack1.pop());
+        // }
     }
     
     public int pop() {
+        peek();
         return stack2.pop();
     }
     
     public int peek() {
+        if(stack2.empty()){
+            while(!stack1.empty()){
+                stack2.push(stack1.pop());
+            }
+        }
         return stack2.peek();
     }
     
     public boolean empty() {
-        return stack2.isEmpty();
+        return stack1.isEmpty()&&stack2.isEmpty();
     }
 }
 
