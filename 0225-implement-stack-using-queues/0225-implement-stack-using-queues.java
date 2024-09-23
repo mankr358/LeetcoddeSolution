@@ -1,36 +1,40 @@
 
 class MyStack {
     Queue<Integer> queue1;
-    Queue<Integer> queue2;
+   // Queue<Integer> queue2;
     
     public MyStack() {
         queue1 = new LinkedList<>();
-        queue2 = new LinkedList<>();
+       // queue2 = new LinkedList<>();
     }
     
     public void push(int x) {
-        // Move all elements from queue2 to queue1
-        while (!queue2.isEmpty()) {
-            queue1.add(queue2.poll());
+
+        int size = queue1.size();
+        queue1.add(x);
+        while(size--> 0){
+            queue1.add(queue1.poll());
         }
-        // Add the new element to queue2 (which acts as the top of the stack)
-        queue2.add(x);
-        // Move everything back from queue1 to queue2 to maintain stack order
-        while (!queue1.isEmpty()) {
-            queue2.add(queue1.poll());
-        }
+       
+    //     while (!queue2.isEmpty()) {
+    //         queue1.add(queue2.poll());
+    //     }
+    //     queue2.add(x);
+    //    while (!queue1.isEmpty()) {
+    //         queue2.add(queue1.poll());
+    //     }
     }
     
     public int pop() {
-        return queue2.poll();
+        return queue1.poll();
     }
     
     public int top() {
-        return queue2.peek();
+        return queue1.peek();
     }
     
     public boolean empty() {
-        return queue2.isEmpty();
+        return queue1.isEmpty();
     }
 }
 /**
