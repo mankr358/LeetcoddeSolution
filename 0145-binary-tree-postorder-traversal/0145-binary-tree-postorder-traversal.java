@@ -13,19 +13,31 @@
  *     }
  * }
  */
-class Solution {
+
+ class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        postorder(root,result);
-        return result;
-    }
-    public void postorder(TreeNode node, List<Integer> result){
-        if(node==null){
-            return;
+        LinkedList<Integer> result = new LinkedList<>();
+        if (root == null) {
+            return result; // Return empty list if root is null
         }
-        
-        postorder(node.left,result);
-        postorder(node.right,result);
-        result.add(node.val);
+
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);  // Push root node to the stack
+
+        // Traverse the tree using a stack
+        while (!stack.isEmpty()) {
+            TreeNode node = stack.pop();
+            result.addFirst(node.val);  // Add the current node's value to the front of the result list
+
+            // Push left and right children to the stack
+            if (node.left != null) {
+                stack.push(node.left);
+            }
+            if (node.right != null) {
+                stack.push(node.right);
+            }
+        }
+
+        return result;  // Return the list of node values in postorder
     }
 }
