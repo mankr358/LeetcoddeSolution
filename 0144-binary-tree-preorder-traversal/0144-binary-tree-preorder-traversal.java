@@ -13,20 +13,32 @@
  *     }
  * }
  */
-class Solution {
-    public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();  // To store the preorder traversal result
-        preorder(root, result);  // Helper function to perform the traversal
-        return result;  // Return the result
-    }
 
-    // Helper method to perform preorder traversal recursively
-    private void preorder(TreeNode node, List<Integer> result) {
-        if (node == null) {
-            return;  // Base case: if the node is null, do nothing
+ class Solution {
+    public List<Integer> preorderTraversal(TreeNode root) {
+        List<Integer> result = new ArrayList<>();
+        if (root == null) {
+            return result;  // If the tree is empty, return an empty list
         }
-        result.add(node.val);  // Add the current node's value to the result
-        preorder(node.left, result);  // Recur on the left child
-        preorder(node.right, result);  // Recur on the right child
+
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);  // Start with the root node in the stack
+
+        while (!stack.isEmpty()) {
+            TreeNode node = stack.pop();  // Pop the top node from the stack
+            result.add(node.val);  // Visit the node (add its value to the result)
+
+            // Push right child first so that left child is processed next
+            if (node.right != null) {
+                stack.push(node.right);
+            }
+
+            // Push left child onto the stack
+            if (node.left != null) {
+                stack.push(node.left);
+            }
+        }
+
+        return result;  // Return the preorder traversal result
     }
 }
