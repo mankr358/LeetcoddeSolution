@@ -15,21 +15,35 @@
  */
 class Solution {
     public TreeNode insertIntoBST(TreeNode root, int val) {
-         // Base case: if the root is null, return a new node with the value
+        // If the root is null, the new node will be the root
         if (root == null) {
             return new TreeNode(val);
         }
+
+        TreeNode current = root;
         
-        // If the value is smaller, insert in the left subtree
-        if (val < root.val) {
-            root.left = insertIntoBST(root.left, val);
-        } 
-        // If the value is larger, insert in the right subtree
-        else if (val > root.val) {
-            root.right = insertIntoBST(root.right, val);
+        // Traverse the tree until we find the appropriate spot for the new value
+        while (true) {
+            // If the value is smaller, go left
+            if (val < current.val) {
+                if (current.left == null) {
+                    current.left = new TreeNode(val);
+                    break;
+                } else {
+                    current = current.left;
+                }
+            } 
+            // If the value is larger, go right
+            else {
+                if (current.right == null) {
+                    current.right = new TreeNode(val);
+                    break;
+                } else {
+                    current = current.right;
+                }
+            }
         }
         
-        // Return the root of the tree after insertion
         return root;
     }
 }
