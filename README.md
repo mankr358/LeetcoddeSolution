@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/mankr358/LeetcoddeSolution/tree/master/0409-longest-palindrome) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mankr358/LeetcoddeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Quickselect
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mankr358/LeetcoddeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0567-permutation-in-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mankr358/LeetcoddeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mankr358/LeetcoddeSolution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mankr358/LeetcoddeSolution/tree/master/0739-daily-temperatures) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mankr358/LeetcoddeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
