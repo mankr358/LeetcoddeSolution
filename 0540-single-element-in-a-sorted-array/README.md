@@ -15,6 +15,9 @@
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
+![leetcode 540](https://github.com/user-attachments/assets/4862e88f-7a5d-4a88-aa62-7784c429b509)
+
+
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
