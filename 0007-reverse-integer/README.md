@@ -27,6 +27,9 @@
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
+![leetcode 540](https://github.com/user-attachments/assets/cecba358-5c9e-4ccb-ab0c-f3c87f12a56e)
+
+
 <ul>
 	<li><code>-2<sup>31</sup> &lt;= x &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
