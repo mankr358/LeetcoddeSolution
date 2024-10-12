@@ -32,5 +32,8 @@
 	<li><code>-2<sup>31</sup>&nbsp;&lt;= x &lt;= 2<sup>31</sup>&nbsp;- 1</code></li>
 </ul>
 
+![leetcode 540](https://github.com/user-attachments/assets/5fc33156-5c32-4a8d-b910-db34de23e563)
+
+
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you solve it without converting the integer to a string?
