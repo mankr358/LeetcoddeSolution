@@ -19,6 +19,9 @@
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
+![leetcode 540](https://github.com/user-attachments/assets/a8c5f7d6-b29c-4cd4-8c51-5f541cfd66b7)
+
+
 <ul>
 	<li><code>n == height.length</code></li>
 	<li><code>1 &lt;= n &lt;= 2 * 10<sup>4</sup></code></li>
