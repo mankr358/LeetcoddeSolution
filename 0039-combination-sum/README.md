@@ -33,6 +33,9 @@ These are the only two combinations.
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
+![leetcode 540](https://github.com/user-attachments/assets/25f705e4-56c5-4310-adb9-12c52a9bee49)
+
+
 <ul>
 	<li><code>1 &lt;= candidates.length &lt;= 30</code></li>
 	<li><code>2 &lt;= candidates[i] &lt;= 40</code></li>
