@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/mankr358/LeetcoddeSolution/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mankr358/LeetcoddeSolution/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mankr358/LeetcoddeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/mankr358/LeetcoddeSolution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0567-permutation-in-string) |
 | [2551-apply-operations-to-an-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/2551-apply-operations-to-an-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/mankr358/LeetcoddeSolution/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mankr358/LeetcoddeSolution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
