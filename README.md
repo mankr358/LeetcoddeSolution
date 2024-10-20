@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mankr358/LeetcoddeSolution/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/mankr358/LeetcoddeSolution/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/mankr358/LeetcoddeSolution/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mankr358/LeetcoddeSolution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mankr358/LeetcoddeSolution/tree/master/0125-valid-palindrome) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mankr358/LeetcoddeSolution/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mankr358/LeetcoddeSolution/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/mankr358/LeetcoddeSolution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mankr358/LeetcoddeSolution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mankr358/LeetcoddeSolution/tree/master/0128-longest-consecutive-sequence) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
