@@ -1,67 +1,54 @@
-class Solution {
+public class Solution {
     public String minWindow(String s, String t) {
-        
-        if (s.length() == 0 || t.length() == 0) {
+        int n = s.length();
+
+        if (t.length() > n)
             return "";
-        }
 
-        // Dictionary to keep the count of characters in t
-        Map<Character, Integer> dictT = new HashMap<>();
-        for (int i = 0; i < t.length(); i++) {
-            dictT.put(t.charAt(i), dictT.getOrDefault(t.charAt(i), 0) + 1);
-        }
+        Map<Character, Integer> mp = new HashMap<>();
 
-        // Number of unique characters in t that must be present in the window
-        int required = dictT.size();
+        // store karliya
+        for (char ch : t.toCharArray())
+            mp.put(ch, mp.getOrDefault(ch, 0) + 1);
 
-        // Left and right pointers
-        int left = 0, right = 0;
+        int requiredCount = t.length();
+        int i = 0, j = 0;
 
-        // Formed keeps track of how many unique characters in the current window match the required count in t
-        int formed = 0;
+        int minWindowSize = Integer.MAX_VALUE;
+        int start_i = 0;
 
-        // Dictionary to keep the count of characters in the current window
-        Map<Character, Integer> windowCounts = new HashMap<>();
+        // story starts
+        while (j < n) {
+            char ch = s.charAt(j);
 
-        // (window length, left, right)
-        int[] ans = {-1, 0, 0};
+            if (mp.containsKey(ch) && mp.get(ch) > 0)
+                requiredCount--;
 
-        while (right < s.length()) {
-            // Add one character from the right to the window
-            char c = s.charAt(right);
-            windowCounts.put(c, windowCounts.getOrDefault(c, 0) + 1);
+            mp.put(ch, mp.getOrDefault(ch, 0) - 1);
 
-            // If the frequency of the current character matches the required frequency in t, increase the formed count
-            if (dictT.containsKey(c) && windowCounts.get(c).intValue() == dictT.get(c).intValue()) {
-                formed++;
-            }
+            while (requiredCount == 0) {
+                // start shrinking the window
 
-            // Try and contract the window until it ceases to be "desirable"
-            while (left <= right && formed == required) {
-                c = s.charAt(left);
+                int currWindowSize = j - i + 1;
 
-                // Update the result if this window is smaller than the previous best
-                if (ans[0] == -1 || right - left + 1 < ans[0]) {
-                    ans[0] = right - left + 1;
-                    ans[1] = left;
-                    ans[2] = right;
+                if (minWindowSize > currWindowSize) {
+                    minWindowSize = currWindowSize;
+                    start_i = i;
                 }
 
-                // The character at the position pointed by the left pointer is no longer a part of the window
-                windowCounts.put(c, windowCounts.get(c) - 1);
-                if (dictT.containsKey(c) && windowCounts.get(c).intValue() < dictT.get(c).intValue()) {
-                    formed--;
+                char startChar = s.charAt(i);
+                mp.put(startChar, mp.getOrDefault(startChar, 0) + 1);
+
+                if (mp.containsKey(startChar) && mp.get(startChar) > 0) {
+                    requiredCount++;
                 }
 
-                // Move the left pointer ahead to contract the window
-                left++;
+                i++;
             }
 
-            // Keep expanding the window by moving right
-            right++;
+            j++;
         }
 
-        return ans[0] == -1 ? "" : s.substring(ans[1], ans[2] + 1);
-    
+        return minWindowSize == Integer.MAX_VALUE ? "" : s.substring(start_i, start_i + minWindowSize);
     }
 }
