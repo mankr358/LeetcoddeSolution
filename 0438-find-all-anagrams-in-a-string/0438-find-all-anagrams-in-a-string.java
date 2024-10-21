@@ -2,53 +2,38 @@
 
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> result = new ArrayList<>();
-        int[] pCount = new int[26];
-        int[] sCount = new int[26];
-        int pLength = p.length();
-        int sLength = s.length();
+        // Initialize an array to keep track of character counts
+        int[] arr = new int[26];
 
-        if (sLength < pLength) {
-            return result; // No valid anagrams if s is shorter than p
-        }
+        int m = s.length();
+        int n = p.length();
 
-        // Count frequency of characters in p
+        // Populate the array with character frequencies from string 'p'
         for (char ch : p.toCharArray()) {
-            pCount[ch - 'a']++;
+            arr[ch - 'a']++;
         }
 
-        // Initial window
-        for (int i = 0; i < pLength; i++) {
-            sCount[s.charAt(i) - 'a']++;
-        }
+        int i = 0, j = 0;
+        List<Integer> result = new ArrayList<>();
 
-        // Slide the window over s
-        if (matches(pCount, sCount)) {
-            result.add(0);
-        }
+        // Sliding window approach
+        while (j < m) {
+            arr[s.charAt(j) - 'a']--;
 
-        for (int i = pLength; i < sLength; i++) {
-            // Add the next character to the window
-            sCount[s.charAt(i) - 'a']++;
-            // Remove the character going out of the window
-            sCount[s.charAt(i - pLength) - 'a']--;
+            // When the window size matches the length of 'p'
+            if (j - i + 1 == n) {
+                // If the array is all zeroes, we found an anagram
+                if (Arrays.equals(arr, new int[26])) {
+                    result.add(i);
+                }
 
-            // Check if current window matches
-            if (matches(pCount, sCount)) {
-                result.add(i - pLength + 1);
+                // Move the window forward
+                arr[s.charAt(i) - 'a']++;
+                i++;
             }
+            j++;
         }
 
         return result;
-    }
-
-    // Helper method to compare two frequency arrays
-    private boolean matches(int[] pCount, int[] sCount) {
-        for (int i = 0; i < 26; i++) {
-            if (pCount[i] != sCount[i]) {
-                return false;
-            }
-        }
-        return true;
     }
 }
