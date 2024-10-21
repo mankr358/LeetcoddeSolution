@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mankr358/LeetcoddeSolution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/mankr358/LeetcoddeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mankr358/LeetcoddeSolution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/mankr358/LeetcoddeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/mankr358/LeetcoddeSolution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mankr358/LeetcoddeSolution/tree/master/0383-ransom-note) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mankr358/LeetcoddeSolution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mankr358/LeetcoddeSolution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/mankr358/LeetcoddeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0324-wiggle-sort-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mankr358/LeetcoddeSolution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/mankr358/LeetcoddeSolution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mankr358/LeetcoddeSolution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mankr358/LeetcoddeSolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0387-first-unique-character-in-a-string) |
