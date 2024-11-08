@@ -5,7 +5,7 @@ class Solution {
         char[] arr = s.toCharArray();
         HashMap<Character, Integer> map = new HashMap<>();
 
-        for (int right = 0; right < arr.length; right++) { // Correct the condition to right < arr.length
+        for (int right = 0; right < arr.length; right++) {
             int idx = map.getOrDefault(arr[right], -1);
             if (idx != -1 && idx >= left) {
                 left = idx + 1;
