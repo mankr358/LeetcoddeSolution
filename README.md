@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mankr358/LeetcoddeSolution/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mankr358/LeetcoddeSolution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mankr358/LeetcoddeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mankr358/LeetcoddeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mankr358/LeetcoddeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/mankr358/LeetcoddeSolution/tree/master/0290-word-pattern) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mankr358/LeetcoddeSolution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mankr358/LeetcoddeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0274-h-index) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/mankr358/LeetcoddeSolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0387-first-unique-character-in-a-string) |
