@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mankr358/LeetcoddeSolution/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0229-majority-element-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mankr358/LeetcoddeSolution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mankr358/LeetcoddeSolution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mankr358/LeetcoddeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0344-reverse-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mankr358/LeetcoddeSolution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mankr358/LeetcoddeSolution/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
 | [2050-count-good-numbers](https://github.com/mankr358/LeetcoddeSolution/tree/master/2050-count-good-numbers) |
 ## Recursion
