@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mankr358/LeetcoddeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/mankr358/LeetcoddeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mankr358/LeetcoddeSolution/tree/master/0228-summary-ranges) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mankr358/LeetcoddeSolution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/mankr358/LeetcoddeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mankr358/LeetcoddeSolution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mankr358/LeetcoddeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/mankr358/LeetcoddeSolution/tree/master/0290-word-pattern) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mankr358/LeetcoddeSolution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mankr358/LeetcoddeSolution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mankr358/LeetcoddeSolution/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/mankr358/LeetcoddeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/mankr358/LeetcoddeSolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0387-first-unique-character-in-a-string) |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mankr358/LeetcoddeSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/mankr358/LeetcoddeSolution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0324-wiggle-sort-ii) |
 ## Greedy
 |  |
