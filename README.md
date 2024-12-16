@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mankr358/LeetcoddeSolution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/1603-running-sum-of-1d-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/mankr358/LeetcoddeSolution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
