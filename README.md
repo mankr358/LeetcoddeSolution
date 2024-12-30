@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mankr358/LeetcoddeSolution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mankr358/LeetcoddeSolution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/mankr358/LeetcoddeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mankr358/LeetcoddeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mankr358/LeetcoddeSolution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/0567-permutation-in-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/mankr358/LeetcoddeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/mankr358/LeetcoddeSolution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/2551-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
