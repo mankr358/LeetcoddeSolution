@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mankr358/LeetcoddeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/mankr358/LeetcoddeSolution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mankr358/LeetcoddeSolution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0503-next-greater-element-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/mankr358/LeetcoddeSolution/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mankr358/LeetcoddeSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mankr358/LeetcoddeSolution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2050-count-good-numbers](https://github.com/mankr358/LeetcoddeSolution/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
