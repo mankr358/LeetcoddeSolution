@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/mankr358/LeetcoddeSolution/tree/master/0409-longest-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mankr358/LeetcoddeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2032-largest-odd-number-in-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/2032-largest-odd-number-in-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mankr358/LeetcoddeSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/mankr358/LeetcoddeSolution/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mankr358/LeetcoddeSolution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mankr358/LeetcoddeSolution/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mankr358/LeetcoddeSolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/mankr358/LeetcoddeSolution/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/mankr358/LeetcoddeSolution/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
