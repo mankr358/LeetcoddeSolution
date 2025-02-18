@@ -16,37 +16,46 @@
 
  class Solution {
     public int maxDepth(TreeNode root) {
-        if (root == null) { // Edge case: if the tree is empty
-            return 0;
-        }
+        // if (root == null) { // Edge case: if the tree is empty
+        //     return 0;
+        // }
         
-        Queue<TreeNode> elementQueue = new LinkedList<>(); // Use TreeNode instead of Integer
-        elementQueue.add(root); // Add the root node to the queue
-        int numberOfLevels = 0; // Start counting from level 0
+        // Queue<TreeNode> elementQueue = new LinkedList<>(); // Use TreeNode instead of Integer
+        // elementQueue.add(root); // Add the root node to the queue
+        // int numberOfLevels = 0; // Start counting from level 0
         
-        // Perform BFS level by level
-        while (!elementQueue.isEmpty()) {
-            int nodeCountAtLevel = elementQueue.size(); // Number of nodes at current level
+        // // Perform BFS level by level
+        // while (!elementQueue.isEmpty()) {
+        //     int nodeCountAtLevel = elementQueue.size(); // Number of nodes at current level
             
-            // Process each node at the current level
-            for (int i = 0; i < nodeCountAtLevel; i++) {
-                TreeNode element = elementQueue.poll(); // Dequeue a node
+        //     // Process each node at the current level
+        //     for (int i = 0; i < nodeCountAtLevel; i++) {
+        //         TreeNode element = elementQueue.poll(); // Dequeue a node
                 
-                // Enqueue left child if it exists
-                if (element.left != null) {
-                    elementQueue.add(element.left);
-                }
+        //         // Enqueue left child if it exists
+        //         if (element.left != null) {
+        //             elementQueue.add(element.left);
+        //         }
                 
-                // Enqueue right child if it exists
-                if (element.right != null) {
-                    elementQueue.add(element.right);
-                }
-            }
+        //         // Enqueue right child if it exists
+        //         if (element.right != null) {
+        //             elementQueue.add(element.right);
+        //         }
+        //     }
             
-            // Increment the level count after processing all nodes at the current level
-            numberOfLevels++;
-        }
+        //     // Increment the level count after processing all nodes at the current level
+        //     numberOfLevels++;
+        // }
         
-        return numberOfLevels; // Return the total number of levels (depth)
+        // return numberOfLevels; // Return the total number of levels (depth)
+        if (root == null) {
+            return 0; // If tree is empty, height is 0
+        }
+        int leftDepth = maxDepth(root.left);  // Go down the left side
+        int rightDepth = maxDepth(root.right); // Go down the right side
+
+        // Take the bigger side and add 1 for the current step
+        return Math.max(leftDepth, rightDepth) + 1;
+    
     }
 }
