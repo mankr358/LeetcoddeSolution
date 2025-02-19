@@ -15,6 +15,7 @@
  */
  class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
+          
         // If both nodes are null, trees are the same at this point
         if (p == null && q == null) {
             return true;
@@ -23,6 +24,7 @@
         if (p == null || q == null) {
             return false;
         }
+        
         // Check if the current nodes have the same value and
         // recursively check left and right subtrees
         return (p.val == q.val) 
